@@ -35,3 +35,4 @@ uploads/
 # Dependency cache
 pip-wheel-metadata/
 *.whl
+.env
